@@ -1,4 +1,4 @@
-# La Manzanita Game
+# La Manzanita Roulette
 
 ![3](https://user-images.githubusercontent.com/6405595/31610736-9c4a980e-b24f-11e7-8c54-68f9544d033e.png)
 
